@@ -1,6 +1,6 @@
 # frfs
 test na loha
-Этот файл спросит у вас: вы лох или нет? Отвечайте что хотите
+Etot fayl sprosit u vas: ljh vi ili net? Otvechayte chto hotite.
 
 
 
